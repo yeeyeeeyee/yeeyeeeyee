@@ -5,3 +5,6 @@
 </picture>
 
 ![image](https://github.com/yeeyeeeyee/yeeyeeeyee/blob/master/BspbsKR.gif)
+<div align="center">
+	<img src="https://github.com/yeeyeeeyee/yeeyeeeyee/blob/master/BspbsKR.gif" alt="Editor" width="500">
+</div>
