@@ -4,7 +4,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yeeyeeeyee/yeeyeeeyee/output/github-contribution-grid-snake.svg">
 </picture>
 
-![image](https://github.com/yeeyeeeyee/yeeyeeeyee/blob/master/BspbsKR.gif)
+
 <div align="center">
-	<img src="https://github.com/yeeyeeeyee/yeeyeeeyee/blob/master/BspbsKR.gif" alt="Editor" width="500">
+	<img src="https://github.com/yeeyeeeyee/yeeyeeeyee/blob/master/BspbsKR.gif" alt="Editor" width="800">
 </div>
