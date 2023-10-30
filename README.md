@@ -3,5 +3,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yeeyeeeyee/yeeyeeeyee/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yeeyeeeyee/yeeyeeeyee/output/github-contribution-grid-snake.svg">
 </picture>
-
-![image](https://github.com/yeeyeeeyee/yeeyeeeyee/blob/master/BspbsKR.gif)
+<div style="text-align: center;">
+  ![image](https://github.com/yeeyeeeyee/yeeyeeeyee/blob/master/BspbsKR.gif)
+  </div>
